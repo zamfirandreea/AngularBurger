@@ -1,0 +1,14 @@
+.burger-cheese {
+  background-image: url(../../assets/images/burger-cheese.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  max-width: 450px;
+  height: 180px;
+  margin: 0 auto;
+  position: absolute;
+  bottom: 70px;
+  left: 0;
+  right: 0;
+  z-index: 3;
+}

@@ -1,0 +1,14 @@
+.bottom-bread {
+  background-image: url(../../assets/images/burger-bottom-bread.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  max-width: 450px;
+  height: 170px;
+  margin: 0 auto;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}

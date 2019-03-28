@@ -1,0 +1,14 @@
+.top-bread {
+  background-image: url(../../assets/images/burger-top-bread.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  max-width: 450px;
+  height: 200px;
+  margin: 0 auto;
+  position: absolute;
+  bottom: 135px;
+  left: 0;
+  right: 0;
+  z-index: 5;
+}
